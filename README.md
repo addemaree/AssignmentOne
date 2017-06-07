@@ -10,4 +10,4 @@ A basic page using only HTML and CSS to create a store-front application.
 
 ## Landing Page:
 
-(tri-marlandingpage.png)
+[![tri-marlandingpage.png](https://s22.postimg.org/wwgx4lgb5/tri-marlandingpage.png)](https://postimg.org/image/4jlfe4ukt/)
